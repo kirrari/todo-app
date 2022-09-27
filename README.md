@@ -1,1 +1,1 @@
-# Vue 3 + Vite todo app
+# Vue 3 + Vite todo app project
